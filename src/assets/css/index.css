@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: Helvetica;
+
+  background-image: url("../images/AbstractMoon.png");
+  background-size: 1920px 1080px;
+
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,30 @@
+#music-card {
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+    width: 70rem;
+    height: 40rem;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    transition: all 0.7s ease-in;
+    
+}
+
+#music-card:hover {
+    box-shadow: 0 0 15px rgb(78, 0, 78);
+}
+
+#Button-Container {
+    margin: 0 auto;
+    height: 60px;
+    display: flex;
+}
+
+#Button-Container > * {
+    align-items: center;
+}
+
+#Button-Container > * + * {
+    margin-left: 130px;
+}

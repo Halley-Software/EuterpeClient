@@ -1,0 +1,21 @@
+/* #Features-List {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 20px;
+}
+
+#Features-List > li {
+    display: block;
+    flex: 0 auto;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#Features-List > li:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    cursor: pointer;
+} */
